@@ -1,0 +1,26 @@
+body {
+  background-color: #EEEEEE;
+}
+
+h1 {
+  color: #393e46;
+  font-family: Verdana;
+}
+
+h3 {
+  color: #393e46;
+  font-family: Verdana;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 6px;
+  width: 5%;
+  border-color: #407088;
+}
+
+a:any-link {
+  color: #407088;
+  text-decoration: none;
+}
